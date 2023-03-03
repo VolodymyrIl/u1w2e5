@@ -1,0 +1,2 @@
+root senza password
+Volodymyr password 12345
